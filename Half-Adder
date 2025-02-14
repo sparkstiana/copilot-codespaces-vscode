@@ -1,0 +1,7 @@
+In this project, you'll construct a half adder using an XOR gate and an AND gate. The inputs will be
+controlled with switches or pushbuttons. The outputs should be connected to LEDs to easily observe
+their states.
+What is Half-Adder
+Internally the half adder can be implemented as a combinational logic circuit, so we can also describe
+it with a truth table.
+
